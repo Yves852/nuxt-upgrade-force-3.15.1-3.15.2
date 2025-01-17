@@ -6,6 +6,8 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
+    "nuxtupgrade": "nuxt upgrade --force",
+    "recommendedupgrade" :"npx nuxi@latest upgrade --force",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
